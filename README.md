@@ -18,7 +18,7 @@ First, import the flat file, CSV data into Tableau. Next create and style worksh
 Then use Tableau worksheets to display data in a professional way. Finally, portray data accurately using Tableau dashboards.
 
 ### Results
-This Tableau Story can be seen in its entirety: [link to dashboard](https://public.tableau.com/app/profile/yajaira.varillas.perez/viz/NYCCitiBikeAnalysisProject/NYCCitiBikeAnalysisProject?publish=yes "Click here!")
+This Tableau Story can be seen in its entirety: [Click here!](https://public.tableau.com/app/profile/yajaira.varillas.perez/viz/NYCCitiBikeAnalysisProject/NYCCitiBikeAnalysisProject?publish=yes)
 
 While the demographics of Des Moines may be different from the make up of the citizenry of NYC, a cursory look at the makeup of CitiBike riders may shine light on who bikeshare might appeal to, regardless of locale.
 ***
