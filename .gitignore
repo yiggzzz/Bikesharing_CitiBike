@@ -1,0 +1,4 @@
+# Ignored files
+.ipynb_checkpoints/NYC_CitiBike_Challenge-checkpoint.ipynb
+201908-citibike-tripdata.csv
+201908-citibike-tripdata-updated.csv
