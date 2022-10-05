@@ -41,8 +41,8 @@ A heatmap also helps show weekly usage patterns. Once again we can see the heavy
 ![NYC CitiBike Avg. Trip Duration by Birth Year](pics/NYC_Trip_Duration_by_Year.jpg)
 
 This charting of average trip duration by birth year shows two things:
-- the bikeshare userbase covers all age demographics, from teenagers to nonagenarians (and older);
-- teenagers and early-twenty-somethings enjoy taking much longer bikerides than older users.
+- The bikeshare userbase covers all age demographics, from teenagers to nonagenarians (and older);
+- Teenagers and early-twenty-somethings enjoy taking much longer bikerides than older users.
 ***
 ![NYC CitiBike Trip Duration](pics/NYC_Trip_Duration_by_Usage.jpg)
 
